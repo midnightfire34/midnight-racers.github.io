@@ -1,4 +1,4 @@
-/* Generated on: Fri Feb 04 2022 08:35:08 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Sun Feb 06 2022 19:36:15 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -120,7 +120,6 @@
      font-weight: 400;
      text-align: center;
      text-transform: lowercase;
-     text-shadow: 1px 1px 6px #815eb1;
      background-clip: border-box;
      -webkit-text-fill-color: inherit;
      mix-blend-mode: normal;
@@ -157,7 +156,7 @@
      .image-2 {
        display: inline-block;
        overflow: scroll;
-       margin-top: 327px;
+       margin-top: 69px;
        padding-top: 0px;
        -o-object-fit: cover;
        object-fit: cover;
